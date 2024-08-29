@@ -1,2 +1,2 @@
 # Projects
-Projects in completed in data analytics
+This is my first repo
